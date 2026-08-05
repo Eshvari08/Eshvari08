@@ -1,5 +1,7 @@
 # Hi 👋, I'm Ishvari Navale
 
+### Full Stack Developer | BCS Graduate | JavaScript Learner | Backend Developer
+
 ## 👩‍💻 About Me
 
 🎓 BCS Graduate
@@ -29,7 +31,6 @@
 - JavaScript
 - Node.js
 - Express.js
-- MongoDB
 - Backend Development
 
 ---
