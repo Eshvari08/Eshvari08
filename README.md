@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ishvari Navale
+# Hi 👋, I'm Eshvari Navale
 
 ### Full Stack Developer | BCS Graduate | JavaScript Learner | Backend Developer
 
