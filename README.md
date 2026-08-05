@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Eshvari Navale
 
-<!--
-**Eshvari08/Eshvari08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+🎓 BCS Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning JavaScript, Node.js and Backend Development
+
+💡 Interested in Web Development and Problem Solving
+
+🚀 Goal: To become a Full Stack Developer and build real-world projects.
+
+---
+
+## 🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- Node.js (Learning)
+
+---
+
+## 📚 Currently Learning
+
+- JavaScript
+- Node.js
+- Express.js
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/Eshvari08
+
+⭐ Thanks for visiting my profile!
