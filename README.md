@@ -4,8 +4,12 @@
 🎓 MCS Final Year | 💻 Full Stack Developer | 🚀 Backend Developer
 </h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=120&pause=1200&color=FF0000&center=true&vCenter=true&width=500&lines=MCS+Final+Year+Student" />
+</p>
+
 ---
-https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=120&pause=1200&color=FF0000&center=true&vCenter=true&width=500&lines=MCS+Final+Year+Student
+
 <details>
 <summary>📌 Click to know me better!</summary>
 
