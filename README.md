@@ -121,20 +121,6 @@
 
 ---
 
-# 🎓 Core CS Fundamentals
-
-- 🧱 Object-Oriented Programming
-- 🗄️ Database Management Systems
-- 💾 SQL
-- 💻 Operating Systems
-- 🌐 Computer Networks
-- 🔄 SDLC
-- 🧪 Software Testing Fundamentals
-- 🧩 Data Structures & Algorithms
-- 🐞 Debugging & Problem Solving
-
----
-
 # 🎯 Goals for 2026
 
 - 🚀 Build strong **Full Stack projects**
@@ -145,18 +131,6 @@
 - 🧠 Improve **DSA & Problem Solving**
 - 💼 Prepare for **Software Developer opportunities**
 - 📚 Keep learning and building practical projects
-
----
-
-# 💼 What I'm Looking For
-
-I'm interested in opportunities where I can:
-
-- 🚀 Learn from experienced developers
-- 💻 Work on real-world software projects
-- 🌱 Improve my backend & full-stack skills
-- 🤝 Collaborate with a development team
-- 🧠 Solve practical programming problems
 
 ---
 
@@ -175,40 +149,31 @@ I'm interested in opportunities where I can:
 </p>
 
 ---
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Eshvari08&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Eshvari08&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshvari08&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshvari08&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
-# 💻 Most Used Languages
+## 💻 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshvari08&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshvari08&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<hr>
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshvari08&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshvari08&theme=tokyo-night&hide_border=true" width="95%" />
 </p>
+
 
 ---
 
