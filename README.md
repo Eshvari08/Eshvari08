@@ -159,15 +159,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshvari08&theme=tokyonight&hide_border=true" />
 </p>
 
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshvari08&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<hr>
-
 ## 📈 Contribution Graph
 
 <p align="center">
