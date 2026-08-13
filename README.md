@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Eshvari Navale 👋 😊</h1>
+<h1 align="center">Hi there, I'm Eshvari Navale  😊</h1>
 
 <h3 align="center">
 🎓 MCS Final Year | 💻 Full Stack Developer | 🚀 Backend Developer
