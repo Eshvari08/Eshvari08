@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Eshvari Navale  😊</h1>
 
 <h3 align="center">
-🎓 MCS Final Year | 💻 Full Stack Developer | 🚀 Backend Developer
+🎓 MCS First Year | 💻 Full Stack Developer | 🚀 Backend Developer
 </h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **MCS Final Year Student**
+- 🎓 **MCS First Year Student**
 - 💻 Currently learning **Node.js, Express.js, .NET & C#**
 - 🌱 Exploring **Backend & Full Stack Development**
 - 🛒 Developed **Real Mart Master** as a final-year project
